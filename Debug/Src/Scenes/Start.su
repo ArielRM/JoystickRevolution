@@ -1,0 +1,3 @@
+Start.c:14:13:StartSceneInit	0	static
+Start.c:63:13:StartSceneDraw	8	static
+Start.c:24:13:StartSceneUpdate	0	static

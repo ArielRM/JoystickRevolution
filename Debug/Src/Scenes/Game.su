@@ -1,0 +1,6 @@
+Game.c:27:6:GameSceneUpdateCallback	0	static
+Game.c:191:13:GameSceneDraw	8	static
+Game.c:157:13:GameSceneDrawCallback	40	static
+Game.c:47:13:GameSceneCreateArrow	16	static
+Game.c:110:13:GameSceneUpdate	32	static
+Game.c:14:13:GameSceneInit	8	static

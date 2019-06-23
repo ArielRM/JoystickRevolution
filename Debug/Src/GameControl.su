@@ -1,0 +1,2 @@
+GameControl.c:10:6:GameControlTask	48	static
+GameControl.c:37:6:GameControlSendEvent	24	static

@@ -1,0 +1,6 @@
+ArrowQueue.c:18:6:arrowQueueInit	0	static
+ArrowQueue.c:25:10:arrowQueueEnqueue	12	static
+ArrowQueue.c:39:10:arrowQueueDequeue	0	static
+ArrowQueue.c:50:10:arrowQueuePeekTail	0	static
+ArrowQueue.c:61:10:arrowQueuePeekHead	0	static
+ArrowQueue.c:80:6:arrowQueueForEach	24	static

@@ -1,0 +1,4 @@
+GameOver.c:34:13:GameOverSceneDraw	0	static
+GameOver.c:37:13:GameOverSceneDestroy	0	static
+GameOver.c:24:13:GameOverSceneUpdate	0	static
+GameOver.c:11:13:GameOverSceneInit	8	static

@@ -1,0 +1,3 @@
+Joystick.c:62:6:JoystickInit	0	static
+Joystick.c:70:20:JoystickGetPosition	0	static
+Joystick.c:16:6:JoystickTask	24	static
